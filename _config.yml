@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Seamus Somerstep"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "PhD student @ Umich deparment of statistics"
   links:
     #- label: "Website"
