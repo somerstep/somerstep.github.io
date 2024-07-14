@@ -14,7 +14,7 @@ title: "Research"
 
   With Ya'acov Ritov, Yuekai Sun
 
-  In *ACM Conference on Fairness, Accountability, and Transparency*, (2024)
+  In *ACM Conference on Fairness, Accountability, and Transparency (FAccT)*, (2024)
 
   Abstract: In many prediction problems, the predictive model affects the distribution of the prediction target. This phenomenon is known as   performativity and is often caused by the behavior of individuals with vested interests in the outcome of the predictive model. Although     performativity is generally problematic because it manifests as distribution shifts, we develop algorithmic fairness practices that          leverage performativity to achieve stronger group fairness guarantees in social classification problems (compared to what is achievable in   non-performative settings). In particular, we leverage the policymaker's ability to steer the population to remedy inequities in the long    term. A crucial benefit of this approach is that it is possible to resolve the incompatibilities between conflicting group fairness       
   definitions.
