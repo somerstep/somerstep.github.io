@@ -1,1 +1,11 @@
+---
+permalink: /research/
+title: "Research"
+---
 
+- [Learning In reverse Causal Strategic Environments with Ramifications on Two Sided Markers](https://arxiv.org/abs/2404.13240)
+  With Yuekai Sun, Ya'acov Ritov
+  *International Conference on Learning Representations (ICLR)*, 2024
+  
+  Abstract: Motivated by equilibrium models of labor markets, we develop a formulation of causal strategic classification in which strategic   agents can directly manipulate their outcomes. As an application, we compare employers that anticipate the strategic response of a labor     force with employers that do not. We show through a combination of theory and experiment that employers with performatively optimal hiring   policies improve employer reward, labor force skill level, and in some cases labor force equity. On the other hand, we demonstrate that      performative employers harm labor force utility and fail to prevent discrimination in other cases.
+  
