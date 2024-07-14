@@ -2,13 +2,17 @@
 permalink: /research/
 title: "Research"
 ---
-- [A statistical framework for weak-to-strong generalization](https://arxiv.org/abs/2405.20447)
+[A statistical framework for weak-to-strong generalization](https://arxiv.org/abs/2405.16236)
+=======
+  - With Felipe Maia Polo, Moulinath Banerjee, Ya'acov Ritov, Mikhail Yurochkin, Yuekai Sun
 
-  With Felipe Maia Polo, Moulinath Banerjee, Ya'acov Ritov, Mikhail Yurochkin, Yuekai Sun
+  - *In Submission*, (2024)
 
-  *In Submission*, (2024)
-
-  Abstract: In many prediction problems, the predictive model affects the distribution of the prediction target. This phenomenon is known as performativity and is often caused by the behavior of individuals with vested interests in the outcome of the predictive model. Although performativity is generally problematic because it manifests as distribution shifts, we develop algorithmic fairness practices that leverage performativity to achieve stronger group fairness guarantees in social classification problems (compared to what is achievable in non-performative settings). In particular, we leverage the policymaker's ability to steer the population to remedy inequities in the long term. A crucial benefit of this approach is that it is possible to resolve the incompatibilities between conflicting group fairness definitions.
+  - Abstract: In many prediction problems, the predictive model affects the distribution of the prediction target. This phenomenon is known as   performativity and is often caused by the behavior of individuals with vested interests in the outcome of the predictive model. Although     performativity is generally problematic because it manifests as distribution shifts, we develop algorithmic fairness practices that       
+  leverage performativity to achieve stronger group fairness guarantees in social classification problems (compared to what is achievable in 
+  non-performative settings). In particular, we leverage the policymaker's ability to steer the population to remedy inequities in the long 
+  term. A crucial benefit of this approach is that it is possible to resolve the incompatibilities between conflicting group fairness 
+  definitions.
 
 - [Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness](https://arxiv.org/abs/2405.20447)
 
