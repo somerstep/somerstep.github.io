@@ -1,8 +1,8 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /Bio/
+title: "Bio"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a third year PhD student in the department of statistics at the Univeristy of Michigan, where I am advised by Prof. Yuekai Sun and Prof. Ya'acov Ritov. My research interests are broadly in theoretical topics on AI safety, including algorithmic fairness and (super)alignment of Large Language Models. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Prior to attending the University of Michigan, I recieved my bachelors degree in mathematics from Colorado State University, where I worked with Prof. Rachel Pries and Prof. Renzo Cavalieri on probems in arithmetic and algebraic geometry.
