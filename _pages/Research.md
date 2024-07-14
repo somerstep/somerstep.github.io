@@ -37,6 +37,6 @@ title: "Research"
 
     Abstract: We study when Hurwitz curves are supersingular. Specifically, we show that the curve 
     $H_{n,\ell}:X^nY^{\ell}+Y^nZ^{\ell}+Z^{n}X^{\ellℓ}=0$, with $n$ and $\ell$ relatively prime, is supersingular over the finite field 
-    $\mathbb{F}_p$ if and only if there exists an integer $i$ such that $p^i≡−1\text{ mod }(n2−nℓ+ℓ2)$. If this holds, we prove that it is 
+    $\mathbb{F}_{p}$ if and only if there exists an integer $i$ such that $p^i≡−1\text{ mod }(n2−nℓ+ℓ2)$. If this holds, we prove that it is 
     also true that the curve is maximal over $\mathbb{F}_{p^{2i}}$. Further, we provide a complete table of supersingular Hurwitz curves of 
     genus less than 5 for characteristic less than 37. 
