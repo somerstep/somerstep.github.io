@@ -3,8 +3,6 @@ main:
     #url: /posts/
   #- title: "Categories"
     #url: /categories/
-  - title: "Home"
-    url: /
   - title: "About Me"
     url: /about/
   - title: "Research"
