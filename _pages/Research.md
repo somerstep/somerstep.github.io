@@ -50,7 +50,7 @@ title: "Research"
   - Abstract: We compute an explicit formula for the first Chern class of the Hodge Bundle over the space of admissible cyclic degree three covers of n-pointed rational stable curves as a linear combination of boundary strata. We then apply this formula to give a recursive formula for calculating certain Hodge integrals containing lamba one. We also consider degree two covers for which we compute the divisor clas lambda two as a linear combination of codimension two boundary strata.
 
 [The Supersingularity of Hurwitz Curves](https://arxiv.org/abs/1810.01582) 
-  ======
+=======
  - With  Dean Bisogno, Erin Dawson, Henry Frauenhoff, Michael Lynch, Amethyst Price, Rachel Pries, Eric Work
 
  - In *Involve: A journal of mathematics*, 2018
