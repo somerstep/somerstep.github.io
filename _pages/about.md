@@ -1,5 +1,5 @@
 ---
-permalink: /Bio/
+permalink: /About/
 title: "Bio"
 ---
 
