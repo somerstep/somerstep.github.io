@@ -1,8 +1,6 @@
 ---
 permalink: /about/
 title: "About Me"
-redirect_from: 
-  - /
 ---
 
 I am a third year PhD student in the department of statistics at the Univeristy of Michigan, where I am advised by Prof. Yuekai Sun and Prof. Ya'acov Ritov. My research interests are broadly in theoretical topics on AI safety, including algorithmic fairness and (super)alignment of Large Language Models. 
