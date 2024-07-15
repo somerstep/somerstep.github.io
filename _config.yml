@@ -61,6 +61,8 @@ author:
   name   : "Seamus Somerstep"
   avatar : "/assets/images/profile.jpg"
   bio    : "PhD student @ Umich deparment of statistics"
+  location  : "Ann Arbor, Michigan"
+  email   : "smrstep@umich.edu"
   links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
