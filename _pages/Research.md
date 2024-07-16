@@ -33,8 +33,7 @@ title: "Research"
 
   - *In Submission*, 2021
 
-  - Abstract: We compute the degree of Hurwitz-Hodge classes on one dimensional moduli spaces of cyclic admissible covers of the     
-  projective line. We also compute the degree of the the first Chern class of the Hodge bundle lambda one for all one dimensional moduli spaces. In higher dimension, we express the divisor class lambda one as a linear combination of psi classes and boundary strata.
+  - Abstract: We compute the degree of Hurwitz-Hodge classes on one dimensional moduli spaces of cyclic admissible covers of the projective line. We also compute the degree of the the first Chern class of the Hodge bundle lambda one for all one dimensional moduli spaces. In higher dimension, we express the divisor class lambda one as a linear combination of psi classes and boundary strata.
 
 [Boundary Expression for Chern Classes of the Hodge Bundle on Spaces of Cyclic Covers](https://arxiv.org/abs/1912.07720)
 =====
@@ -42,7 +41,7 @@ title: "Research"
 
   - In *Involve: A journal of mathematics*, 2019
 
-  - Abstract: We compute an explicit formula for the first Chern class of the Hodge Bundle over the space of admissible cyclic degree three covers of n-pointed rational stable curves as a linear combination of boundary strata. We then apply this formula to give a recursive formula for calculating certain Hodge integrals containing lambda one. We also consider degree two covers for which we compute the divisor clas lambda two as a linear combination of codimension two boundary strata.
+  - Abstract: We compute an explicit formula for the first Chern class of the Hodge Bundle over the space of admissible cyclic degree three covers of n-pointed rational stable curves as a linear combination of boundary strata. We then apply this formula to give a recursive formula for calculating certain Hodge integrals containing lambda one. We also consider degree two covers for which we compute the divisor class lambda two as a linear combination of codimension two boundary strata.
 
 [The Supersingularity of Hurwitz Curves](https://arxiv.org/abs/1810.01582) 
 =======
