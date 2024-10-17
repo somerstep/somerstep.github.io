@@ -10,6 +10,15 @@ title: "Research"
 
   - Abstract: Modern large language model (LLM) alignment techniques rely on human feedback, but it is unclear whether the techniques fundamentally limit the capabilities of aligned LLMs. In particular, it is unclear whether it is possible to align (stronger) LLMs with superhuman capabilities with (weaker) human feedback without degrading their capabilities. This is an instance of the weak-to-strong generalization problem: using weaker (less capable) feedback to train a stronger (more capable) model. We prove that weak-to-strong generalization is possible by eliciting latent knowledge from pre-trained LLMs. In particular, we cast the weak-to-strong generalization problem as a transfer learning problem in which we wish to transfer a latent concept from a weak model to a strong pre-trained model. We prove that a naive fine-tuning approach suffers from fundamental limitations, but an alternative refinement-based approach suggested by the problem structure provably overcomes the limitations of fine-tuning. Finally, we demonstrate the practical applicability of the refinement approach with three LLM alignment tasks.
 
+[All The lambda ones on cyclic admissible covers](https://arxiv.org/abs/2112.13892)
+=====
+
+  - With Byson Owens, Renzo Cavalieri
+
+  - *To Appear, Proceedings of the American Mathematical Society*, 2024
+
+  - Abstract: We compute the degree of Hurwitz-Hodge classes on one dimensional moduli spaces of cyclic admissible covers of the projective line. We also compute the degree of the the first Chern class of the Hodge bundle lambda one for all one dimensional moduli spaces. In higher dimension, we express the divisor class lambda one as a linear combination of psi classes and boundary strata.
+
 [Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness](https://arxiv.org/abs/2405.20447)
 =======
   - With Ya'acov Ritov, Yuekai Sun
@@ -25,15 +34,6 @@ title: "Research"
   - In *International Conference on Learning Representations (ICLR)*, 2024
   
   - Abstract: Motivated by equilibrium models of labor markets, we develop a formulation of causal strategic classification in which strategic   agents can directly manipulate their outcomes. As an application, we compare employers that anticipate the strategic response of a labor     force with employers that do not. We show through a combination of theory and experiment that employers with performatively optimal hiring   policies improve employer reward, labor force skill level, and in some cases labor force equity. On the other hand, we demonstrate that      performative employers harm labor force utility and fail to prevent discrimination in other cases.
-
-[All The lambda ones on cyclic admissible covers](https://arxiv.org/abs/2112.13892)
-=====
-
-  - With Byson Owens, Renzo Cavalieri
-
-  - *In Submission*, 2021
-
-  - Abstract: We compute the degree of Hurwitz-Hodge classes on one dimensional moduli spaces of cyclic admissible covers of the projective line. We also compute the degree of the the first Chern class of the Hodge bundle lambda one for all one dimensional moduli spaces. In higher dimension, we express the divisor class lambda one as a linear combination of psi classes and boundary strata.
 
 [Boundary Expression for Chern Classes of the Hodge Bundle on Spaces of Cyclic Covers](https://arxiv.org/abs/1912.07720)
 =====
