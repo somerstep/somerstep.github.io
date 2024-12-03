@@ -9,7 +9,7 @@ title: "Research"
 
 [Microfoundation inference for strategic prediction](https://arxiv.org/abs/2411.08998)
 =======
-- With Daniele Bracale, Subha Maity, Felipe Maia Polo, Seamus Somerstep, Moulinath Banerjee, Yuekai Sun
+- With Daniele Bracale, Subha Maity, Felipe Maia Polo, Moulinath Banerjee, Yuekai Sun
 - *In Submission*, 2024
 
 [All the lambda one's on cyclic admissible covers](https://arxiv.org/abs/2112.13892)
