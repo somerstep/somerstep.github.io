@@ -4,7 +4,7 @@ title: "Research"
 ---
 [Sloth: scaling laws for LLM skills to predict multi-benchmark performance across families](https://arxiv.org/abs/2412.06540v1)
 ======
-- With Felipe Maia Polo, Seamus Somerstep, Leshem Choshen, Yuekai Sun, Mikhail Yurochkin
+- With Felipe Maia Polo, Leshem Choshen, Yuekai Sun, Mikhail Yurochkin
 - *In Submission*, 2024
   
 [A transfer learning framework for weak-to-strong generalization](https://arxiv.org/abs/2405.16236)
