@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 ---
-Sloth: scaling laws for LLM skills to predict multi-benchmark performance across families(https://arxiv.org/abs/2412.06540v1)
+[Sloth: scaling laws for LLM skills to predict multi-benchmark performance across families](https://arxiv.org/abs/2412.06540v1)
 -  Felipe Maia Polo, Seamus Somerstep, Leshem Choshen, Yuekai Sun, Mikhail Yurochkin
 - *In Submission*, 2025
   
