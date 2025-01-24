@@ -16,7 +16,7 @@ title: "Research"
 
 [All the lambda one's on cyclic admissible covers](https://arxiv.org/abs/2112.13892)
   - Byson Owens, Renzo Cavalieri, Seamus Somerstep
-  - *Accepted, Proceedings of the American Mathematical Society*, 2025
+  - Accepted, *Proceedings of the American Mathematical Society*, 2025
 
 [Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness](https://arxiv.org/abs/2405.20447)
   - Seamus Somerstep, Ya'acov Ritov, Yuekai Sun
