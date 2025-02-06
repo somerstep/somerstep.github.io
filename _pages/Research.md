@@ -2,6 +2,10 @@
 permalink: /research/
 title: "Research"
 ---
+[CARROT: A Cost Aware Rate Optimal Router](http://arxiv.org/abs/2502.03261)
+-  Seamus Somerstep, Felipe Maia Polo, Allysson Flavio Melo de Oliveira, Prattyush Mangal, Mírian Silva, Onkar Bhardwaj, Mikhail Yurochkin, Subha Maity
+- *In Submission*, 2025
+- Try CARROT(https://huggingface.co/CARROT-LLM-Routing)
 [Sloth: scaling laws for LLM skills to predict multi-benchmark performance across families](https://arxiv.org/abs/2412.06540v1)
 -  Felipe Maia Polo, Seamus Somerstep, Leshem Choshen, Yuekai Sun, Mikhail Yurochkin
 - *In Submission*, 2025
