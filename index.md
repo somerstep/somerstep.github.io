@@ -13,7 +13,7 @@ Broadly, my research interests are on the statistical aspects of making AI safe,
 
 On the fairness side, my research has pertained to leveraging the effects of distribution shift to achieve greater group fairness guarantees [1], while my work on AI safety includes introducing a transfer learning framework and label refinement method for the weak to strong generalization problem [2]. 
 
-Recently, I worked with collaborators at the University of Waterloo and IBM research to release a new LLM router, CARROT [3]. For a a more extensive list of publications, see the research tab or my <b><a href="http://somerstep.github.io/files/CV.pdf" style="color: black;text-decoration: none">CV</a></b>.
+Recently, I worked with collaborators at the University of Waterloo and IBM research to release a new LLM router, CARROT [3]. For a a more extensive list of publications, see the research tab.
 
 [1] [Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness.](https://arxiv.org/abs/2405.20447) S Somerstep, Y Ritov, Y Sun. *FAccT 2024*
 
