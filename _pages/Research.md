@@ -2,6 +2,10 @@
 permalink: /research/
 title: "Research"
 ---
+[Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation](https://www.arxiv.org/abs/2505.17288)
+- Seamus Somerstep, Vinod Ramadan, Unique Subedi, Yuekai Sun
+- *In Submission*, 2025
+  
 [CARROT: A Cost Aware Rate Optimal Router](http://arxiv.org/abs/2502.03261)
 -  Seamus Somerstep, Felipe Maia Polo, Allysson Flavio Melo de Oliveira, Prattyush Mangal, Mírian Silva, Onkar Bhardwaj, Mikhail Yurochkin, Subha Maity
 - *In Submission*, 2025
